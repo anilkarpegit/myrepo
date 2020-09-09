@@ -5,3 +5,13 @@ Order 1 -
  1. pasta
  2. nurger
  3. corns
+ 
+ 
+ Order 2 - 
+ 1.chicken masala 
+ 2.shev bhaji
+ 3.Butter roti
+ 4.Two coke
+ 
+ 
+ Ordered
